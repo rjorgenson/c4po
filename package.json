@@ -1,0 +1,24 @@
+{
+  "name": "c4po",
+  "version": "0.0.0",
+  "private": true,
+  "author": "rjorgenson <rjorgenson@gmail.com>",
+  "description": "Human-Cyborg Relations",
+  "dependencies": {
+    "hubot": "^2.19.0",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-help": "^0.2.0",
+    "hubot-image-search": "^1.0.1",
+    "hubot-maps": "0.0.2",
+    "hubot-pugme": "^0.1.0",
+    "hubot-redis-brain": "0.0.3",
+    "hubot-rules": "^0.1.1",
+    "hubot-scripts": "^2.17.2",
+    "hubot-secret-ballot": "0.0.2",
+    "hubot-shipit": "^0.2.0",
+    "hubot-slack": "^4.0.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
